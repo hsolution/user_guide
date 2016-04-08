@@ -21,4 +21,6 @@ L'élément le plus important est le ** le sous domaine ** il va déterminer vot
 
 Il existe deux types d'abonnement: mensuel et annuel. L'abonnement annuel vous donne droit à un mois de réduction.
 
+Une fois votre compte actif et votre abonnement validé, vous pouvez vous servir pleinement d' Hestia
+
 
