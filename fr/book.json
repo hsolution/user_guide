@@ -2,7 +2,8 @@
 	"title": "Guide de l'utilisateur",
 	"links": {
 		"sidebar": {
-			"Hestia Solution": "https://hestiasolution.com"
+			"Hestia Solution": "https://hestiasolution.com",
+            "Contactez-nous": "https://hestiasolution.com"
 		},
 		"sharing": {
             "google": null,
