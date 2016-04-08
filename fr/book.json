@@ -3,12 +3,12 @@
 	"links": {
 		"sidebar": {
 			"Hestia Solution": "https://hestiasolution.com",
-            "Contactez-nous": "https://hestiasolution.com"
+              "Contactez-nous": "https://hestiasolution.com"
 		},
 		"sharing": {
             "google": null,
             "facebook": "https://www.facebook.com/hestiasolution",
-            "twitter": "https://twitter.com/hestia_solution"
+            "twitter": "https://twitter.com/hestia_solution",
             "weibo": null,
             "all": null
 		}
