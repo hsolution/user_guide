@@ -7,11 +7,11 @@
               "Contactez-nous": "https://hestiasolution.com"
 		},
 		"sharing": {
-            "google": null,
+            "google": false,
             "facebook": "https://www.facebook.com/hestiasolution",
             "twitter": "https://twitter.com/hestia_solution",
-            "weibo": null,
-            "all": null
+            "weibo": false,
+            "all": false
 		}
 	}
 }
