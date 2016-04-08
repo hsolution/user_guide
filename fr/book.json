@@ -1,3 +1,15 @@
 {
-  "title": "Guide de l'utilisateur"
+  "title": "Guide de l'utilisateur",
+  "links": {
+        // Custom links at top of sidebar
+        "sidebar": {
+            "Hestia Solution": "https://hestiasolution.com"
+        },
+
+        // Sharing links
+        "sharing": {
+            "facebook": https://www.facebook.com/hestiasolution,
+            "twitter": https://twitter.com/hestia_solution
+        }
+    },
 }
