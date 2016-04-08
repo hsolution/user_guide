@@ -13,8 +13,10 @@ Pour accéder aux services d'Hestia Solution vous devez créer un compte et vous
 
 #### Renseignements demandés:
 
-Vous devez fournir un certains nombre de renseignements pour l'ouverture du compte. Votre adresse sera utilisée pour la facturation (vous pouvez la changer par la suite si nécessaire). Votre province va déterminer le taux de taxes que nous appliquerons en vertur de la loi Canadienne. 
+Vous devez fournir un certains nombre de renseignements pour l'ouverture du compte. Votre adresse sera utilisée pour la facturation (vous pouvez la changer par la suite si nécessaire). Votre province va déterminer le taux de taxes que nous appliquerons en vertu de la loi Canadienne. 
 
-L'élément le plus important est le ** le sous domaine **
+L'élément le plus important est le ** le sous domaine ** il va déterminer votre adresse de connexion. Par exemple si vous choisissez mon-organisme, votre adresse de connexion sera https://mon-organisme.hestiasolution.com
+
+
 
 
