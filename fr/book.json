@@ -5,8 +5,11 @@
 			"Hestia Solution": "https://hestiasolution.com"
 		},
 		"sharing": {
-			"facebook": "https://www.facebook.com/hestiasolution",
-			"twitter": "https://twitter.com/hestia_solution"
+            "google": null,
+            "facebook": "https://www.facebook.com/hestiasolution",
+            "twitter": "https://twitter.com/hestia_solution"
+            "weibo": null,
+            "all": null
 		}
 	}
 }
