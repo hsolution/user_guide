@@ -17,10 +17,12 @@ Vous devez fournir un certains nombre de renseignements pour l'ouverture du comp
 
 L'élément le plus important est le ** le sous domaine ** il va déterminer votre adresse de connexion. Par exemple si vous choisissez mon-organisme, votre adresse de connexion sera https://mon-organisme.hestiasolution.com
 
+Votre compte servira également d'utilisateur principal. Ainsi vous pourez vous connecter à tout moment en utilisant votre courriel et le mot de passe que vous aurez choisi.
+
 #### Types d'abonnement
 
 Il existe deux types d'abonnement: mensuel et annuel. L'abonnement annuel vous donne droit à un mois de réduction.
 
-Une fois votre compte actif et votre abonnement validé, vous pouvez vous servir pleinement d' Hestia
+Une fois votre compte actif et votre abonnement validé, vous pouvez vous servir pleinement d' Hestia.
 
 
