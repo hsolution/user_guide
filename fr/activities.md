@@ -23,7 +23,7 @@ Une fois validé, vous vous retrouverez sur la fiche de l'activité et les infor
 
 #### Ajouter des participants
 
-Toute personne inscrite dans Hestia peut être ajoutée dans une activité si elle est active. C'est à dire si la case active est cochée dans sa fiche. Cette case est cochée par défaut lorsque l'on ajoute une personne. 
+Toute personne inscrite dans Hestia peut être ajoutée dans une activité si elle est active. C'est-à-dire si la case active est cochée dans sa fiche. Cette case est cochée par défaut lorsque l'on ajoute une personne. 
 
 Dans la fiche de l'activité, rendez-vous dans la section *Participants* (à droite).
 
