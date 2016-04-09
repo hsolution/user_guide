@@ -37,7 +37,7 @@ Cliquez sur colones visibles pour faire apparaître plus de détails dans le tab
 
 #### Trier les participants rapidement
 
-Dans les participants en cliquant sur l'entête des colonnes du tableau vous trierez rapidement ces derniers. Également en haut à droite du tableau vous pouvez tapez quelques lettres dans la recherche pour faire apparaître seulement les personnes que vous souhaitez observer. 
+Dans les participants en cliquant sur l'entête des colonnes du tableau vous trierez rapidement ces derniers. Également en haut à droite du tableau vous pouvez taper quelques lettres dans la recherche pour faire apparaître seulement les personnes que vous souhaitez observer. 
 
 #### Extraire les participants
 
@@ -49,11 +49,11 @@ En fin d'activité vous souhaitez dire qui était présent, qui à payé. Ou enc
 
 Cliquez simplement dans le menu de gauche sur *Modifier les participants* et faites vos modifications. 
 
-**N'oubliez pas que pour donner des status aux participants vous devez avoir ajouté les entrées des listes déroulantes correspondantes avant.** 
+**N'oubliez pas que pour donner des statuts aux participants vous devez avoir ajouté les entrées des listes déroulantes correspondantes avant.** 
 
-Les status servent par exemple à noter: présent, absent, annulé, en attente.... Ces status seront analysés dans vos statistiques.
+Les statuts servent par exemple à noter: présent, absent, annulé, en attente.... Ces statuts seront analysés dans vos statistiques.
 
-Cochez payer pour mentionner qu'un participant s'est acquité de ce qu'il vous devait. 
+Cochez payer pour mentionner qu'un participant s'est acquitté de ce qu'il vous devait. 
 
 Cochez supprimer pour que lors de la validation les participants cochés soient retirés de l'activité. 
 
