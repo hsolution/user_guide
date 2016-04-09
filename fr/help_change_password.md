@@ -1,6 +1,6 @@
 # Comment réinitialiser mon mot de passe
 
-C'est très simple en tant qu'utilisateur de l'application faites simplement la démarche classique pour vous connecter. 
+C'est très simple en tant qu'utilisateur de l'application, faites simplement la démarche classique pour vous connecter. 
 
 Rendez-vous sur https://mon-organisme.hestiasolution.com
 
