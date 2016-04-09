@@ -25,4 +25,5 @@
    * [Contcater le support](help_contact_support.md)
    * [FAQ](help_faq.md)
 * Exemple d'un organisme famille
+* Exemple d'un organisme de gestion des personnes aidées et aidantes
 
