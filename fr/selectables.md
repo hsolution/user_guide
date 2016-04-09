@@ -27,7 +27,7 @@ Désormais lorsque vous allez créer ou modifier la fiche d'une personne, vous p
 
 Supprimer une entrée de liste déroulante va avoir de nombreuses répercussions si cette dernière a déjà été appliquée ou utilisée quelque part.
 
-Lors que vous supprimez une entrée, tous les endroits où vous vous en êtes servis n'afficheront plus cette entrée. De plus les statistiques sur cette entrée en seront plus accessible. 
+Lors que vous supprimez une entrée, tous les endroits où vous vous en êtes servis n'afficheront plus cette entrée. De plus les statistiques sur cette entrée en seront plus accessibles. 
 
 **Attention** il n'y a pas de retour en arrière possible si vous supprimez une entrée.
 
