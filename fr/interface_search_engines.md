@@ -1,12 +1,12 @@
 # Les moteurs de recherche 
 
-La plus part des sections de l'application sont dotés de moteurs de recherche. 
+La plupart des sections de l'application sont dotés de moteurs de recherche. 
 
 #### Où se trouvent-ils?
-Dans les sections disposant d'un moteur de recherche, vous retrouverez ce dernier tout en haut. Facilement identifiable par la loupe située à gauche du mot *Recherche*, les moteurs de recherche se déploient lorsque vous cliquez dessus et vous offre une multitude de critère de recherche. 
+Dans les sections disposant d'un moteur de recherche, vous retrouverez ce dernier tout en haut. Facilement identifiable par la loupe située à gauche du mot *Recherche*, les moteurs de recherche se déploient lorsque vous cliquez dessus et vous offre une multitude de critères de recherche. 
 
 #### Un exemple
-Dans le menu, cliquez sur *Personnes* puis sur *liste des personnes*. Dans cette section cliquez sur le moteur de recherche en haut. Vous avez le choix de cumuler ou non une recherche par nom, prénom, catégories.
+Dans le menu, cliquez sur *Personnes* puis sur *liste des personnes*. Dans cette section, cliquez sur le moteur de recherche en haut. Vous avez le choix de cumuler ou non une recherche par nom, prénom, catégories.
 
 #### Les critères de recherche
 Les critères de recherche sont **cumulatifs**. Ainsi si vous entrez un nom et un prénom dans l'exemple précédent (moteur de recherche des personnes) vous allez obtenir exclusivement les fiches des personnes portant à la fois ce nom et ce prénom.
