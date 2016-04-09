@@ -15,6 +15,7 @@
   * Le bottin des ressources
   * Les appels 
   * Les conversations
+  * Les utilisateurs
   * Catégories et gestion des listes déroulantes
   * Extraire des données
   * Comprendre les statistiques
