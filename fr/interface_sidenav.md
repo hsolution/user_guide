@@ -1,13 +1,13 @@
 # La barre latérale de navigation
 
-La zone la plus à gauche de la fenêtre est la barre de navigation. Elle va vous permettre de vous rendre dans les différentes sections ou zones de d'Hestia. 
+La zone la plus à gauche de la fenêtre est la barre de navigation. Elle va vous permettre de vous rendre dans les différentes sections ou zones d'Hestia. 
 
 #### Déplier le menu
-Lors que vous cliquez sur un éléments dans la barre latérale, le menu va se déplier laissant apparaître les différentes actions possibles dans cette zone. Par exemple si vous cliquez sur la section *Personnes* vous avez les possibilités suivantes: 
+Lors que vous cliquez sur un élément dans la barre latérale, le menu va se déplier laissant apparaître les différentes actions possibles dans cette zone. Par exemple si vous cliquez sur la section *Personnes* vous avez les possibilités suivantes: 
 
 * Liste des personnes (qui vous donne accès à toutes les fiches que vous avez remplies)
 * Ajouter une personne (qui vous donne accès au formulaire d'ajout de personne)
-* Liste des groupes (pour afficher les groupes que vous avez crées)
+* Liste des groupes (pour afficher les groupes que vous avez créés)
 * Créer un groupe (pour ajouter un nouveau groupe)
 
 #### Un menu adaptatif
