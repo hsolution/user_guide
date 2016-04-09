@@ -1,6 +1,6 @@
 # Création du compte principal
 
-Pour accéder aux services d'Hestia Solution vous devez créer un compte et vous enregistrer.
+Pour accéder aux services d'Hestia Solution, vous devez créer un compte et vous enregistrer.
 
 
 #### Procédure d'ouverture du compte:
@@ -8,16 +8,16 @@ Pour accéder aux services d'Hestia Solution vous devez créer un compte et vous
 1. Rendez-vous sur [la page d'inscription](https://hestiasolution.com/sign_up)
 2. Renseignez les informations demandées
 3. Confirmez un nouveau mot de passe
-4. Votre compte est préaprouvé, choisissez votre type d'abonnement et votre moyen de paiement
+4. Votre compte est préapprouvé, choisissez votre type d'abonnement et votre moyen de paiement
 5. Votre compte est désormais complètement actif
 
 #### Renseignements demandés:
 
-Vous devez fournir un certains nombre de renseignements pour l'ouverture du compte. Votre adresse sera utilisée pour la facturation (vous pouvez la changer par la suite si nécessaire). Votre province va déterminer le taux de taxes que nous appliquerons en vertu de la loi Canadienne. 
+Vous devez fournir un certain nombre de renseignements pour l'ouverture du compte. Votre adresse sera utilisée pour la facturation (vous pouvez la changer par la suite si nécessaire). Votre province va déterminer le taux de taxes que nous appliquerons en vertu de la loi canadienne. 
 
 L'élément le plus important est le ** le sous domaine ** il va déterminer votre adresse de connexion. Par exemple si vous choisissez mon-organisme, votre adresse de connexion sera https://mon-organisme.hestiasolution.com
 
-Votre compte servira également d'utilisateur principal. Ainsi vous pourez vous connecter à tout moment en utilisant votre courriel et le mot de passe que vous aurez choisi.
+Votre compte servira également d'utilisateur principal. Ainsi vous pourrez vous connecter à tout moment en utilisant votre courriel et le mot de passe que vous aurez choisi.
 
 #### Types d'abonnement
 
