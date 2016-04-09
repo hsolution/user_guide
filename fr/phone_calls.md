@@ -13,7 +13,7 @@ Remplissez les informations essentielles:
 * Si l'appel s'adresse à quelqu'un en particulier (un utilisateur d'Hestia) sélectionnez-le
 * Sélectionnez des catégories si nécessaire pour bien ranger les appels et pour vos statistiques
 * Si la personne qui vous appelle est déjà enregistrée dans le système, vous pouvez la sélectionner dans la section *Appelant connu*. Cela créera une fiche d'historique d'appel également présente dans la fiche de cette personne. 
-* Si c'est un organisme qui vous appelle et qu'il est dans le bottin, vous pouvez le sélectionnez également
+* Si c'est un organisme qui vous appelle et qu'il est dans le bottin, vous pouvez le sélectionner également
 * Si la personne n'est pas dans votre système, ajoutez les informations nécessaires pour la rappeler
 * Enfin saisissez votre message
 
