@@ -14,7 +14,7 @@ Dans le menu de gauche, cliquez sur la section des activités. Puis cliquez sur 
 * Personne responsable de l'activité
 * Prix, si l'activité est payante
 * Annulée, que l'on remplit généralement ensuite, permet d'identifier les activités qui n'ont pas eu lieu
-* Si l'activité à lieu ailleurs que dans votre organisme donnez les renseignements utiles (une carte de l'endroit apparaîtra dans la fiche de l'activité)
+* Si l'activité a lieu ailleurs que dans votre organisme, donnez les renseignements utiles (une carte de l'endroit apparaîtra dans la fiche de l'activité)
 * Détails, si vous voulez laisser des consignes supplémentaires par exemple
 
 
