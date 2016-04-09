@@ -14,5 +14,5 @@ Dans la fiche d'un groupe, dans le menu de gauche, cliquez sur *Télécharger la
 
 #### Depuis une activité
 
-Comme les groupes depuis la fiche d'une activité vous pouvez dans le menu de gauche cliquer sur *Télécharger la liste des participants (Excel)* pour recevoir un fichier contenant toutes les informations sur les participants de cette activités ainsi que les détails propres à la participation de ces personnes dans l'activité (status ... ).
+Comme les groupes depuis la fiche d'une activité vous pouvez dans le menu de gauche cliquer sur *Télécharger la liste des participants (Excel)* pour recevoir un fichier contenant toutes les informations sur les participants de cette activité ainsi que les détails propres à la participation de ces personnes dans l'activité (statuts ... ).
 
