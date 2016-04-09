@@ -4,7 +4,7 @@ Dans certaines zones de l'Hestia il est possible de récupérer les données sou
 
 #### Depuis les moteurs de recherche des personnes
 
-Dans le menu de gauche, rendez-vous sur la liste des personnes. En haut dans la section du moteur de recherche cliquez et choisissez les critères de tri que vous souhaitez appliquer. Mais à la place de lancer votre recherche, cliquez sur le deuxième bouton *Télécharger les résultats au format Excel*. 
+Dans le menu de gauche, rendez-vous sur la liste des personnes. En haut, dans la section du moteur de recherche cliquez et choisissez les critères de tri que vous souhaitez appliquer. Mais à la place de lancer votre recherche, cliquez sur le deuxième bouton *Télécharger les résultats au format Excel*. 
 
 En cliquant sur ce bouton un fichier contenant les personnes correspondantes à vos critères sera téléchargé par votre navigateur! 
 
