@@ -11,4 +11,4 @@ Lors que vous cliquez sur un élément dans la barre latérale, le menu va se d�
 * Créer un groupe (pour ajouter un nouveau groupe)
 
 #### Un menu adaptatif
-Le menu est adaptatif. C'est à dire qu'il reconnait l'endroit où vous vous trouvez et vous propose des choix en conséquent. Ainsi si vous ouvrez la section liste des personnes et que vous vous rendez sur la fiche de quelqu'un, le menu va légèrement changer. Il vous propose des nouveaux éléments liés au lieu où vous vous trouvez.
+Le menu est adaptatif. C'est-à-dire qu'il reconnait l'endroit où vous vous trouvez et vous propose des choix en directement en lien avec votre action. Ainsi si vous ouvrez la section liste des personnes et que vous vous rendez sur la fiche de quelqu'un, le menu va légèrement changer. Il vous propose des nouveaux éléments liés au lieu où vous vous trouvez.
