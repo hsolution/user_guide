@@ -23,5 +23,3 @@
   * [Comment réinitialiser mon mot de passe](help_change_password.md)
   * [Contcater le support ](help_contact_support.md)
   * [FAQ](help_faq.md)
-
- 
