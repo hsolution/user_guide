@@ -20,4 +20,4 @@ Seul les administrateurs peuvent ajouter des nouveaux utilisateurs et leur attri
 **Autorisations**: Si vous ajoutez un utilisateur non administrateur vous devez choisir les zones auxquelles cet utilisateur pourra accéder. Vous pouvez donner des droits en lecture seulement ou en lecture et écriture. 
 
 
-**L'utilisateur à qui appartient le compte sur Hestia Solution ne peut pas être effacé. Il le sera si vous vous désabonné**
+**L'utilisateur à qui appartient le compte sur Hestia Solution ne peut pas être effacé. Il le sera si vous vous désabonnez.**
