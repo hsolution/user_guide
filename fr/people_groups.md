@@ -6,15 +6,15 @@ Hestia est modulable! Grâce aux groupes vous pouvez inventer toute sorte de reg
 
 Dans la section du menu latéral des *Personnes*, cliquez sur *Créer un groupe*.
 
-* Donnez lui un titre (famille Bonaventure, listes des salariés du CLSC .... )
-* Donnez lui des catégories si nécessaire
-* Reliez le à un organisme si vous le souhaitez
+* Donnez-lui un titre (famille Bonaventure, liste des salariés du CLSC .... )
+* Donnez-lui des catégories si nécessaire
+* Reliez-le à un organisme si vous le souhaitez
 * Décrivez le groupe donnez des détails qui vous semblent pertinents
 
 
 #### Relier un groupe à un organisme
 
-Si vous avez enregistré des organismes dans la section des organismes, vous pouvez les relier aux groupes. Un organisme peut avoir plusieurs groupes. Lors de la création ou lors de la modification d'un groupe sélectionnez un organisme pour le relier. 
+Si vous avez enregistré des organismes dans la section des organismes, vous pouvez les relier aux groupes. Un organisme peut avoir plusieurs groupes. Lors de la création ou lors de la modification d'un groupe, sélectionnez un organisme pour le relier. 
 
 Le groupe apparaitra alors dans la fiche de l'organisme! 
 
