@@ -27,7 +27,7 @@ Toute personne inscrite dans Hestia peut être ajoutée dans une activité si el
 
 Dans la fiche de l'activité, rendez-vous dans la section *Participants* (à droite).
 
-Dans l'encadré vous proposant d'ajouter un ou plusieurs participants, tapez les premières lettre du nom ou du prénom de la personne que vous souhaitez ajouter. Sélectionnez les personnes correspondantes et cliquez sur valider. Les personnes seront ajoutées! 
+Dans l'encadré vous proposant d'ajouter un ou plusieurs participants, tapez les premières lettres du nom ou du prénom de la personne que vous souhaitez ajouter. Sélectionnez les personnes correspondantes et cliquez sur valider. Les personnes seront ajoutées! 
 
 #### Informations rapides
 
@@ -37,7 +37,7 @@ Cliquez sur colones visibles pour faire apparaître plus de détails dans le tab
 
 #### Trier les participants rapidement
 
-Dans les participants en cliquant sur l'entête des colones du tableau vous trierez rapidement ces derniers. Également en haut à droite du tableau vous pouvez tapez quelques lettres dans la recherche pour faire apparaître seulement les personnes que vous souhaitez observer. 
+Dans les participants en cliquant sur l'entête des colonnes du tableau vous trierez rapidement ces derniers. Également en haut à droite du tableau vous pouvez tapez quelques lettres dans la recherche pour faire apparaître seulement les personnes que vous souhaitez observer. 
 
 #### Extraire les participants
 
