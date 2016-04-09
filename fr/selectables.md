@@ -25,7 +25,7 @@ Désormais lorsque vous allez créer ou modifier la fiche d'une personne, vous p
 
 #### Que se passe-t-il si je supprime une entrée de liste déroulante? 
 
-Supprimer une entrée de liste déroulante va avoir de nombreuses répercutions si cette dernière a déjà été appliquée ou utiliser quelque part.
+Supprimer une entrée de liste déroulante va avoir de nombreuses répercussions si cette dernière a déjà été appliquée ou utilisée quelque part.
 
 Lors que vous supprimez une entrée, tous les endroits où vous vous en êtes servis n'afficheront plus cette entrée. De plus les statistiques sur cette entrée en seront plus accessible. 
 
