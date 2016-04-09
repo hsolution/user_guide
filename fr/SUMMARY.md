@@ -20,7 +20,7 @@
   * Extraire des données
   * Comprendre les statistiques
 * Aide
-  * Comment réinitializer mon mot de passe
+  * Comment réinitialiser mon mot de passe
   * Contcater le support 
   * FAQ
 
