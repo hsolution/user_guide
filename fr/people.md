@@ -17,7 +17,7 @@ Il n'y pas de limite à ce que vous pouvez faire!
 
 #### Comment regrouper des personnes entre elles? 
 
-C'est là que les groupes entrent en jeux. Une personne peut être dans autant de groupes que nécessaire. Ainsi commencer par ajouter un groupe et y ajouter les personnes que vous souhaitez y voir figurer. Vous pouvez ainsi faire des familles, les groupes de salariés ...
+C'est là que les groupes entrent en jeux. Une personne peut être dans autant de groupes que nécessaire. Ainsi, commencez par ajouter un groupe et y ajouter les personnes que vous souhaitez y voir figurer. Vous pouvez ainsi faire des familles, les groupes de salariés ...
 
 [Rendez-vous dans le chapitre sur les groupes pour en savoir plus](people_groups.md)
 
