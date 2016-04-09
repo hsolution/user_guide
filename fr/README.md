@@ -7,4 +7,4 @@
 # Manuel de l'utilisateur
 
 
-Hestia Solution est un logiciel de gestion des organismes.
+Dans ce manuel nous utiliserons le terme **Hestia** pour désigner l'application fournit par Hestia Solution Inc.
