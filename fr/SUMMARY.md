@@ -13,7 +13,7 @@
        * [Groupes](people_groups.md)
        * [Notes de suivi](people_followup_notes.md)
    * [Les activités](activities.md)
-   * [Le bottin des ressources](organizations.md)
+   * [Le bottin des organismes](organizations.md)
    * [Les appels](phone_calls.md)
    * [Les conversations](internal_messages.md)
    * [Les utilisateurs](users.md)
