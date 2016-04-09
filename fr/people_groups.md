@@ -38,3 +38,14 @@ Dans la fiche d'un groupe constitué de personnes, cliquez sur *ajouter les memb
 Dans la fiche d'un groupe vous pouvez cliquer sur le nom d'un des membres du groupe. Une fenêtre popup s'ouvrira et vous donnera les informations rapides sur cette personne. C'est également ici que vous pouvez modifier le lien entre la personne et le groupe. 
 
 **Retirer la personne du groupe ne détruit pas sa fiche personnelle, mais seulement le lien qui l'unit au groupe en question**.
+
+
+#### Extraire les informations sur les membres d'un groupe
+
+Dans la fiche d'un groupe le menu de gauche vous propose de télécharger la liste au format Excel. Cliquez ici pour obtenir les informations des membres du groupe dans un tableau!
+
+#### Autres options
+
+**Statistiques sur les membres du groupe**, cliquez ici pour obtenir les statistiques des personnes qui font partie de ce groupe. 
+
+**Historique des activités**, cliquez ici pour obtenir l'historique des participations aux activités.
