@@ -1,4 +1,4 @@
-![Hestia Solution Logo](/images/hs_logo_1200.png)
+![Hestia Solution Logo](../images/hs_logo_1200.png)
 
 
 
