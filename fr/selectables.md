@@ -40,4 +40,4 @@ En vous rendant dans les listes déroulante puis en cliquant sur celle qui vous 
 
 #### Catégories et statistiques
 
-Les listes déroulantes et notamment les catégories que vous allez créer seront utiles pour les analyses statistiques. Premièrement car elle vous permettront de restreindre les analyses à certains groupes ou type mais aussi car lors de l'analyse la plupart des listes déroulantes sont décomptées et vous donneront des indications précises.
+Les listes déroulantes et notamment les catégories que vous allez créer seront utiles pour les analyses statistiques. Premièrement, car elle vous permettront de restreindre les analyses à certains groupes ou types mais aussi, car lors de l'analyse la plupart des listes déroulantes sont décomptées et vous donneront des indications précises. C'est le moyen le plus efficace d'ajouter de l'information à différents endroits d'Hestia et de bénéficier d'une analyse précise et personnalisée. 
