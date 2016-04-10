@@ -37,3 +37,7 @@ Lors que vous supprimez une entrée, tous les endroits où vous vous en êtes se
 La modifier!
 
 En vous rendant dans les listes déroulante puis en cliquant sur celle qui vous intéresse, utilisez les petits points bleus à droite (actions) puis cliquez sur *Modifier*. Corrigez votre entrée et lorsque vous validerez, tous les endroits où vous vous êtes servis de cette entrée seront automatiquement corrigés. De plus les statistiques prendront également en compte ce changement.
+
+#### Catégories et statistiques
+
+Les listes déroulantes et notamment les catégories que vous allez créer seront utiles pour les analyses statistiques. Premièrement car elle vous permettront de restreindre les analyses à certains groupes ou type mais aussi car lors de l'analyse la plupart des listes déroulantes sont décomptées et vous donneront des indications précises.
