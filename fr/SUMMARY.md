@@ -26,5 +26,5 @@
    * [FAQ](help_faq.md)
 * [Exemple d'un organisme famille](family_type_exemple.md)
 * [Exemple d'un organisme de gestion des personnes aidées et aidantes](alz_helper_exemple.md)
-* Exemple d'un organisme spécialisé dans le logement
+* [Exemple d'un organisme spécialisé dans le logement](housing_helpers_exemple.md)
 
