@@ -24,7 +24,7 @@
    * [Comment réinitialiser mon mot de passe](help_change_password.md)
    * [Contcater le support](help_contact_support.md)
    * [FAQ](help_faq.md)
-* Exemple d'un organisme famille
+* [Exemple d'un organisme famille](family_type_exemple.md)
 * Exemple d'un organisme de gestion des personnes aidées et aidantes
 * Exemple d'un organisme spécialisé dans le logement
 
