@@ -22,7 +22,7 @@
    * [Comprendre les statistiques](stats.md)
 * [Aide](help.md)
    * [Comment réinitialiser mon mot de passe](help_change_password.md)
-   * [Contcater le support](help_contact_support.md)
+   * [Contacter le support](help_contact_support.md)
    * [FAQ](help_faq.md)
 * [Exemple d'un organisme famille](family_type_exemple.md)
 * [Exemple d'un organisme de gestion des personnes aidées et aidantes](alz_helper_exemple.md)
